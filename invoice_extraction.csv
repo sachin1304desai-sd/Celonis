@@ -1,0 +1,6 @@
+vendor_name,vendor_address,payment_terms,invoice_value,company_code,po_reference,invoice_id
+Vendor40 Corporation,"5678 Vendor Street, Business District, Chicago, IL 60601",30,3960.0,CompanyCode3,00000586652,INV-2020-08-001247
+Vendor34,"789 Vendor Street, Vendor City, State 54321",30,1666.0,CompanyCode4,00000048334,INV-2020-001
+Vendor46 Manufacturing Solutions,"Manufacturing District 12, Hamburg, HH 20095, Germany",90,3748.5,CompanyCode3,00001135572,INV-2020-07-001853
+Vendor45,"789 Vendor Street, Vendor City, State 54321",30,5057.5,CompanyCode3,00000000181,INV-2021-001
+Vendor34,"789 Vendor Street, Vendor City, State 54321",15,1785.0,CompanyCode4,00000000191,INV-2021-002
